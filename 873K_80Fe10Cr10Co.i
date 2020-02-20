@@ -18,8 +18,8 @@
   type = GeneratedMesh
   dim = 2 # Number of dimensions (2D in this case)
   elem_type = QUAD4 # Type of finite element
-  nx = 80 # Number of elements in the x (horizontal) direction
-  ny = 80 # Number of elements in the y (vertical) direction
+  nx = 100 # Number of elements in the x (horizontal) direction
+  ny = 100 # Number of elements in the y (vertical) direction
   xmax = 100 # Size of calculated area (nm in this case) in x direction
   ymax = 100 # Size of calculated area (nm in this case) in y direction
 []
